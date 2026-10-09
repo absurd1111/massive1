@@ -13,6 +13,6 @@ fun main() {
     var i = readln().toInt()
     println("Введите количество столбцов")
     var j = readln().toInt()
-    val massives = IntArray(i) 
+    val massives = IntArray(i)
 
 }
